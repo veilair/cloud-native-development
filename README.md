@@ -19,7 +19,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 
 
 ## Table of Contents
-
+- [Introduction](#introduction)
 - [AI](#ai)
 - [API Gateway](#api-gateway)
 - [Application Delivery](#application-delivery)
