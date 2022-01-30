@@ -10,5 +10,6 @@ According to the *Cloud Native Computing Foundation*, cloud-native systems have 
 - Applications or processes are run in software containers as isolated units.
 - Processes are managed by central orchestration processes to improve resource usage and reduce maintenance costs.
 - Applications or services (microservices) are loosely coupled with explicitly described dependencies.
-- 
+
+
 These attributes describe a highly dynamic system that is composed of independent processes that work together to provide business value: a distributed system.
