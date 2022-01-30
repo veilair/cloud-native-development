@@ -85,7 +85,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 
 [Back to top](#tables-of-contents)
 
-## Application Delivery
+## `Application Delivery`
 
 - [argo-cd](https://github.com/argoproj/argo-cd/) - Declarative continuous deployment for Kubernetes.
 - [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
@@ -163,7 +163,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 
 [Back to top](#tables-of-contents)
 
-## Big Data
+## `Big Data`
 
 - [fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors.
 - [pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
@@ -174,7 +174,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 
 [Back to top](#tables-of-contents)
 
-## Container Runtime
+## `Container Runtime`
 
 - [clear-containers](https://github.com/clearcontainers) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines.
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime.
@@ -194,7 +194,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 - [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
 
-## Database
+## `Database`
 
 - [arangodb](https://github.com/arangodb/arangodb) - ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
@@ -221,7 +221,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
 - [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness.
 
-## Edge Computing
+## `Edge Computing`
 
 - [akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge.
 - [baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
@@ -269,7 +269,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
-## Message Broker
+## `Message Broker`
 
 - [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.
 - [eventmesh](https://github.com/WeBankFinTech/EventMesh) - EventMesh is a dynamic cloud-native eventing infrastructure used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
@@ -283,13 +283,13 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
 - [rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 
-## Miscellaneous
+## `Miscellaneous`
 
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
 - [cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform.
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) - Kubernetes LTS(long term support).
 
-## Monitoring
+## `Monitoring`
 
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [cortex](https://github.com/cortexproject/cortex) - A multitenant, horizontally scalable Prometheus as a Service.
@@ -307,7 +307,7 @@ Cloud computing environments are **dynamic, with on-demand allocation and releas
 - [sofa-lookout](https://github.com/sofastack/sofa-lookout) - Lookout can help you to measure and monitor the status of the target system with its multi-dimensional metrics.
 - [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
 
-## Network
+## `Network`
 
 - [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
 - [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers.
