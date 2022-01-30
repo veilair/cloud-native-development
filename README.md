@@ -3,13 +3,18 @@
 
 
 ## Introduction
-Cloud computing environments are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
+
+Cloud Native is a **behavior and design philosophy.** At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
 According to the *Cloud Native Computing Foundation*, cloud-native systems have the following attributes:
 
-- Applications or processes are run in software containers as isolated units.
-- Processes are managed by central orchestration processes to improve resource usage and reduce maintenance costs.
-- Applications or services (microservices) are loosely coupled with explicitly described dependencies.
+- **Applications or processes are run in software containers as isolated units.**
+- **Processes are managed by central orchestration processes to improve resource usage and reduce maintenance costs.**
+- **Applications or services (microservices) are loosely coupled with explicitly described dependencies.**
 
 
 These attributes describe a highly dynamic system that is composed of independent processes that work together to provide business value: a distributed system.
+
+Cloud computing environments are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
+
+
