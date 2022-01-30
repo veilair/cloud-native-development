@@ -7,7 +7,7 @@
 
 Cloud Native is a **behavior and design philosophy.** At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
-According to the *Cloud Native Computing Foundation*, cloud-native systems have the following attributes:
+According to the *[Cloud Native Computing Foundation](https://github.com/cncf/foundation/blob/main/charter.md)*, cloud-native systems have the following attributes:
 
 - **Applications or processes are run in software containers as isolated units.**
 - **Processes are managed by central orchestration processes to improve resource usage and reduce maintenance costs.**
