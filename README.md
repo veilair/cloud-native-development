@@ -3,7 +3,7 @@
 
 
 
-## Introduction
+## `Introduction`
 
 Cloud Native is a **behavior and design philosophy.** At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
@@ -19,7 +19,7 @@ These attributes describe a highly dynamic system that is composed of independen
 Cloud computing environments are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
 
 
-## Table of Contents
+## `Table of Contents`
 - [Introduction](#introduction)
 - [AI](#ai)
 - [API Gateway](#api-gateway)
