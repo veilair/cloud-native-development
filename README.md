@@ -1,5 +1,5 @@
 # Cloud Native Development
-> An ongoing curated list of awesome frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about Cloud Native Development. Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+> An ongoing curated list of awesome frameworks, important books, articles, talks, libraries, learning tutorials, best practices and technical resources about Cloud Native Development. Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
 
