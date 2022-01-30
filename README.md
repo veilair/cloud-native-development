@@ -16,7 +16,7 @@ According to the *[Cloud Native Computing Foundation](https://github.com/cncf/fo
 
 These attributes describe a highly dynamic system that is composed of independent processes that work together to provide business value: a distributed system.
 
-Cloud computing environments are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
+[Cloud computing environments](https://cloud.ibm.com/docs/cloud-native?topic=cloud-native-overview) are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
 
 
 ## `Table of Contents`
