@@ -19,6 +19,10 @@ These attributes describe a highly dynamic system that is composed of independen
 [Cloud computing environments](https://cloud.ibm.com/docs/cloud-native?topic=cloud-native-overview) are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
 
 
+
+> From the book of [cloud native spring in action](https://livebook.manning.com/book/cloud-native-spring-in-action/chapter-1/v-1/11), Cloud native applications are highly distributed systems that live in the cloud and are resilient to change.
+
+
 ## `Table of Contents`
 - [Introduction](#introduction)
 - [AI](#ai)
