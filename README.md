@@ -240,7 +240,7 @@ These attributes describe a highly dynamic system that is composed of independen
 - [openyurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge(project under CNCF).
 - [superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
 
-## Kubernetes Operators
+## `Kubernetes Operators`
 
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes.
@@ -372,7 +372,7 @@ These attributes describe a highly dynamic system that is composed of independen
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF).
 
-## Proxy
+## `Proxy`
 
 - [apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) - Ingress controller for K8s.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS.
@@ -398,7 +398,7 @@ These attributes describe a highly dynamic system that is composed of independen
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy.
 - [voyager](https://github.com/voyagermesh/voyager) - Secure Ingress Controller for Kubernetes.
 
-## RPC
+## `RPC`
 
 - [brpc](https://github.com/apache/incubator-brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
 - [drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC.
@@ -412,7 +412,7 @@ These attributes describe a highly dynamic system that is composed of independen
 - [tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [thrift](https://github.com/apache/thrift) - Apache thrift.
 
-## Security and Audit
+## `Security and Audit`
 
 - [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
@@ -449,7 +449,7 @@ These attributes describe a highly dynamic system that is composed of independen
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
 - [vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 
-## Service Mesh
+## `Service Mesh`
 
 - [aeraki](https://github.com/aeraki-framework/aeraki) - Manage any layer 7 traffic in an Istio service mesh.
 - [amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices.
